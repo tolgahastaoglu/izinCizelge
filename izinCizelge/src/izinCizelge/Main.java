@@ -32,6 +32,8 @@ public class Main {
 			System.out.println(departman.departmanAdi);
 		}
 		
+		Izinler izinler=new Izinler();
+		izinler.izin(personel3);
 		}
 		
 		
